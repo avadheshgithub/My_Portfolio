@@ -4,7 +4,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Live-green?style=for-the-badge)
 
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Avadhesh-yellow?style=for-the-badge)
 
 <div align="center">
   <img src="https://via.placeholder.com/800x400?text=My+Developer+Portfolio" alt="Portfolio Banner" width="800"/>
