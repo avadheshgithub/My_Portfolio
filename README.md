@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=My_+Portfolio" alt="Portfolio Banner" width="800"/>
+  <img src="https://via.placeholder.com/800x400?text=My+Portfolio" alt="Portfolio Banner" width="800"/>
 </div>
 
 ---
