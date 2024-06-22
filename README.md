@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-Avadhesh-yellow?style=for-the-badge)
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400?text=My+Developer+Portfolio" alt="Portfolio Banner" width="800"/>
+  <img src="https://via.placeholder.com/1600x800?text=My+Portfolio" alt="Portfolio Banner" width="600"/>
 </div>
 
 ---
