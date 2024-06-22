@@ -25,13 +25,13 @@ Hi, I'm [Avadhesh shah], a passionate developer with expertise in web developmen
 
 ### 🌐 Projects Showcase
 
-- **Project 1**: [Awesome Project](https://github.com/yourusername/project1)
+- **Project 1**: [Awesome Project](https://github.com/avadheshgithub/project1)
   - 🌟 **Highlights**:
   - 
-- **Project 2**: [Another Cool Project](https://github.com/yourusername/project2)
+- **Project 2**: [Another Cool Project](https://github.com/github/project2)
   - 🌟 **Highlights**:
   - 
-- **Project 3**: [Yet Another Project](https://github.com/yourusername/project3)
+- **Project 3**: [Yet Another Project](https://github.com/github/project3)
   - 🌟 **Highlights**: 
 ---
 
